@@ -1,0 +1,1 @@
+Hello this is the first AI that I've made. Thıs AI is a smart tour guide. It can give you information about the places you plan to go on holiday, their climate, the history of the nearby shopping malls and their popularity.
